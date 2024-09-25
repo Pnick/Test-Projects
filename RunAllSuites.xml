@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Automation Test Report" verbose="2"
+	parallel="classes" thread-count="1" data-provider-thread-count="1">
+	<test name="Delasport Test">
+		<classes>
+			<class name="Runners.TestNG.RunDelasportTest" />
+		</classes>
+	</test>
+</suite>
