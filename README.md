@@ -1,4 +1,4 @@
-# Test-Projects - JAVA / Selenium / Cucumber based project
+# Test-Projects - JAVA - Selenium - Cucumber based project
 
 Project execution can be done through JUnit or TestNG.
 
